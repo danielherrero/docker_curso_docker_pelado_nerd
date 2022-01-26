@@ -1,0 +1,1 @@
+docker run -v C:\Users\herre\docker\docker_curso_docker_pelado_nerd\etc:/etc/todos -dp 3000:3000 getting-started
